@@ -1,1 +1,1 @@
-# cientista-de-dados
+# projetos-curso-cientista-de-dados
